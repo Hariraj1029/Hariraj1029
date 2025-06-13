@@ -49,10 +49,6 @@ Here’s what I’ve built that I’m truly proud of 👇
 
 ---
 
-### 📈 GitHub Stats
-
----
-
 ### 🎯 What I'm Looking For
 
 I’m seeking opportunities where I can:
