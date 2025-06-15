@@ -64,7 +64,7 @@ I’m seeking opportunities where I can:
 * 📧 [harirajgandepalli776@gmail.com](mailto:harirajgandepalli776@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/hariraj-gandepalli/)
 * 🧪 [Hugging Face](https://huggingface.co/Hariraj-1029)  |  [Kaggle](https://www.kaggle.com/hariraj1029)
-* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yourprofile)
 [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:your.email@example.com)
 [![Hugging Face](https://img.shields.io/badge/-HuggingFace-yellow?logo=huggingface&style=flat-square)](https://huggingface.co/yourprofile)
 
