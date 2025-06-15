@@ -61,7 +61,7 @@ I’m seeking opportunities where I can:
 
 ### 📬 Connect With Me
 
-* 📧 [harirajgandepalli@gmail.com](mailto:harirajgandepalli@gmail.com)
+* 📧 [harirajgandepalli776@gmail.com](mailto:harirajgandepalli776@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/hariraj-gandepalli/)
 * 🧪 [Hugging Face](https://huggingface.co/Hariraj-1029)  |  [Kaggle](https://www.kaggle.com/hariraj1029)
 
