@@ -61,11 +61,10 @@ I’m seeking opportunities where I can:
 
 ### 📬 Connect With Me
 
-* 📧 [harirajgandepalli776@gmail.com](mailto:harirajgandepalli776@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/hariraj-gandepalli/)
-* 🧪 [Hugging Face](https://huggingface.co/Hariraj-1029)  |  [Kaggle](https://www.kaggle.com/hariraj1029)
+[<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="24"/>](https://www.linkedin.com/in/hariraj-gandepalli/)
 [<img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="24"/>](mailto:harirajgandepalli776@gmail.com)
-
+[<img src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" width="24"/>](https://huggingface.co/Hariraj-1029)
+[<img src="https://img.icons8.com/?size=100&id=Omk4fWoSmCHm&format=png&color=000000" width="24"/>](https://www.kaggle.com/hariraj1029)
 
 ---
 
