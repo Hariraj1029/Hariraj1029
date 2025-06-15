@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ad109d42-6d41-447d-9fd9-b4b46c299752)### 👋 Hello there, I'm Hariraj Gandepalli — a Creative Builder of Intelligent Bots!
+### 👋 Hello there, I'm Hariraj Gandepalli — a Creative Builder of Intelligent Bots!
 
 > *"Turning conversations into capabilities, one bot at a time."*
 
