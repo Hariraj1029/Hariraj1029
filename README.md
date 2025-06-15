@@ -1,4 +1,4 @@
-### 👋 Hello there, I'm Hariraj Gandepalli — a Creative Builder of Intelligent Bots!
+![image](https://github.com/user-attachments/assets/ad109d42-6d41-447d-9fd9-b4b46c299752)### 👋 Hello there, I'm Hariraj Gandepalli — a Creative Builder of Intelligent Bots!
 
 > *"Turning conversations into capabilities, one bot at a time."*
 
@@ -64,9 +64,7 @@ I’m seeking opportunities where I can:
 * 📧 [harirajgandepalli776@gmail.com](mailto:harirajgandepalli776@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/hariraj-gandepalli/)
 * 🧪 [Hugging Face](https://huggingface.co/Hariraj-1029)  |  [Kaggle](https://www.kaggle.com/hariraj1029)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:your.email@example.com)
-[![Hugging Face](https://img.shields.io/badge/-HuggingFace-yellow?logo=huggingface&style=flat-square)](https://huggingface.co/yourprofile)
+[<img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="24"/>](mailto:harirajgandepalli776@gmail.com)
 
 
 ---
