@@ -11,7 +11,7 @@ I specialise in:
 * 🧬 Machine Learning & Natural Language Processing
 * 🔍 LLMs, RAG & Prompt Engineering
 * 🕸️ Knowledge Graphs & Smart Data Retrieval
-* 🌐 API Integrations & Automation Tools
+* 🌐 API Integrations & Process automations
 
 
 ## 🎯 What I'm Looking For
